@@ -53,4 +53,4 @@ This project is an assembly language program for an Arduino-based system that co
 ## Author
 
 Rowan Hall  
-GitHub: [Your GitHub Profile](https://github.com/RowanHall)
+GitHub: [GitHub Profile](https://github.com/RowanHall)
